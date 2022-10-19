@@ -11,5 +11,5 @@
 
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Schutz3/Schutz3/master/fubuki.gif" height="200">
+	<img src="https://raw.githubusercontent.com/Schutz3/Schutz3/master/Jett.gif">
 </div>
