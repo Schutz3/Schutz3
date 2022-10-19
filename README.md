@@ -11,5 +11,5 @@
 
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Schutz3/Schutz3/master/ttej1.gif">
+	<img src="https://media.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif">
 </div>
