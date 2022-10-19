@@ -2,7 +2,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=Schutz3)
 
 <div align="center">
-	<img src="https://file.farhand.tech/public/jett.gif" width="100px">
+	<img src="https://file.farhand.tech/public/jett.gif>
 </div>
 
 [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
