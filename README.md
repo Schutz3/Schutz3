@@ -11,5 +11,5 @@
 
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Schutz3/Schutz3/master/Jett.gif">
+	<img src="https://raw.githubusercontent.com/Schutz3/Schutz3/master/ttej1.gif">
 </div>
