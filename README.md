@@ -3,7 +3,7 @@
 
 <div align="center">
 	<img src="https://file.farhand.tech/public/ttej7.gif"> <br/>
-	<a href="https://www.instagram.com/oktavian.py/" target="_blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Instagram" witdth="10px"></a>
+	<a href="https://www.instagram.com/oktavian.py/" target="_blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Instagram" width="10px"></a>
 </div>
 
 [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
