@@ -2,7 +2,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=Schutz3)
 
 <div align="center">
-	<img src="logo.png" height="100">
+	<img src="https://file.farhand.tech/public/jett.gif">
 </div>
 
 [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -10,6 +10,4 @@
 [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<div align="center">
-	<img src="https://media.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif">
-</div>
+
