@@ -3,6 +3,7 @@
 
 <div align="center">
 	<img src="https://file.farhand.tech/public/ttej7.gif">
+	<a href="https://www.instagram.com/kiputron" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-		square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
