@@ -3,7 +3,7 @@
 
 <div align="center">
 	<img src="https://file.farhand.tech/public/ttej7.gif"> <br/>
-	<a href="https://www.instagram.com/oktavian.py/" target="_blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Instagram" width="25px"></a> <br/>
+	<a href="https://www.instagram.com/oktavian.py/" target="_blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Instagram" width="25px"></a> My Instagram <br/>
 </div>
 
 [![@schutz3's Holopin board](https://holopin.me/schutz3)](https://holopin.io/@schutz3)
