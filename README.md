@@ -1,4 +1,4 @@
-## System.out.println("Hello Meq 👋");
+## System.out.println("Hello World 👋");
 ![profile views](https://komarev.com/ghpvc/?username=Schutz3)
 
 <div align="center">
