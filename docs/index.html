@@ -1,54 +1,94 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>RESERVED</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="INI CONTOH YA GES YA">
-    <meta name="author" content="ZEA FOUNDATION">
-    <style>
-        .container {
-            width: 60%;
-            margin: 10% auto 0;
-            background-color: #f0f0f0;
-            padding: 2% 5%;
-            border-radius: 10px
-        }
-
-        ul {
-            padding-left: 20px;
-        }
-
-            ul li {
-                line-height: 2.3
-            }
-
-        a {
-            color: #20a53a
-        }
-        .footer {
-			/* position: absolute;
-			left: 0;
-			bottom: 32px;
-			width: 100%; */
-			margin-top: 24px;
-			text-align: center;
-			font-size: 12px;
-		}
-		.footer .btlink {
-			color: #20a53a;
-			text-decoration: none;
-		}
-    </style>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bookshelf Apps</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Marck+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    
 </head>
+
 <body>
-    <div class="container">
-        <h1>INI CONTOH YA</h1>
-        <h3>GITHUB PAGES</h3>
+    <div class="sticky">
+        <h1 style="font-family: 'Marck Script', cursive;">Bookshelf Apps</h1>
     </div>
-    <div class="footer">
-    	Power by Github pages
-    </div>
+    <header>
+        <div class="head_bar">
+            <h1 style="font-family: cursive;" class="head_bar__title">Bookshelf Apps</h1> <br>
+            <h5> Bookshelf Apps adalah tempat untuk memudahkanmu menyimpan buku dimanapun dan kapanpun</h5>
+       </div>
+    </header>
+
+	<main>
+        <section id="input-buku" class="input-buku">
+			<h2>Masukkan Buku Baru</h2>
+			<form id="form-input-buku" action="#" class="form">
+				<div class="input">
+					<label for="input-judul" class="form-label">Judul</label>
+					<input class="form-input" type="text" id="input-judul" name="judul"
+						placeholder="Masukkan Judul Buku">
+				</div>
+				<div class="input">
+					<label for="input-penulis" class="form-label">Penulis</label>
+					<input class="form-input" type="text" id="input-penulis" name="penulis"
+						placeholder="Masukkan Nama Penulis Buku">
+				</div>
+				<div class="input">
+					<label for="input-tahun" class="form-label">Tahun</label>
+					<input class="form-input" type="number" id="input-tahun" name="tahun"
+						placeholder="Masukkan Tahun Terbit Buku">
+				</div>
+				<div class="input">
+					<label for="input-baca" class="form-label">Selesai Dibaca</label>
+					<input class="form-input" type="checkbox" id="input-baca" name="baca">
+				</div>
+				<button type="submit" class="btn-submit"><span>Masukan Buku</span></button>
+			</form>
+		</section>
+		
+		<section id="search-buku" class="search-buku">
+			<h2>Cari Buku</h2>
+			<form id="form-search-buku" action="#" class="form">
+				<div class="form-group">
+					<label for="input-search" class="form-label">Keyword</label>
+					<input class="form-input" type="text" id="input-search" name="search"
+						placeholder="Search">
+				</div>
+				<button type="submit" class="btn-submit"><span>Cari</span></button>
+			</form>
+		</section>
+
+		<section id="rak-buku">
+			<section class="rak-section">
+				<h2 class="font-gradient text-center">Belum Selesai Dibaca</h2>
+				<p class="counter">Jumlah: <span id="belum-baca-count">0</span></p>
+				<div class="list-item" id="belum-baca">
+	
+				</div>
+			</section>
+	
+			
+			<section class="rak-section">
+				<h2 class="font-gradient text-center">Selesai Dibaca</h2>
+				<p class="counter">Jumlah: <span id="sudah-baca-count">0</span></p>
+				<div class="list-item" id="sudah-baca">
+	
+				</div>
+			</section>
+		</section>
+	</main>
+
+    <footer>
+        © Nabilah Putri Intaka · Dicoding Submission Belajar Membuat Front-End Web untuk Pemula
+    </footer>
+
+    <script src="storage.js"></script>
+    <script src="dom.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
