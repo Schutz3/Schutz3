@@ -13,6 +13,10 @@
 
 [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Schutz3/Schutz3/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<div align="center">
+	<a href="https://scz.my.id/" target="_blank"><img src="https://raw.githubusercontent.com/Schutz3/Schutz3/refs/heads/master/fubuki.gif" alt="FUBUKIIII"></a><br/>
+</div>
+
 
 
 
