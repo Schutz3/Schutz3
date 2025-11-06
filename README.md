@@ -5,6 +5,9 @@
 	<a href="https://www.instagram.com/oktavian.py/" target="_blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Instagram" width="25px"></a><br/>
 </div>
 
+[![y](https://holopin.me/schutz3)](https://holopin.io/@schutz3)
+
+
 <div align="center">
 	<a href="https://scz.my.id/" target="_blank"><img src="https://raw.githubusercontent.com/Schutz3/Schutz3/refs/heads/master/fubuki.gif" alt="Instagram"></a> <br/>
 </div>
