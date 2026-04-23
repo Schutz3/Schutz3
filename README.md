@@ -9,7 +9,6 @@
 
 
 <div align="center">
-	<a href="https://scz.my.id/" target="_blank"><img src="https://raw.githubusercontent.com/Schutz3/Schutz3/refs/heads/master/fubuki.gif" alt="Instagram"></a> <br/>
 </div>
 <div align="center">
 	
